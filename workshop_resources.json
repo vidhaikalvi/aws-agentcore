@@ -1,0 +1,13 @@
+{
+  "CognitoUserPoolId": "us-west-2_Q1vGep4Kh",
+  "CognitoClientId": "6ofp8idpf3vipm39a6sdfjhjlh",
+  "CognitoIssuerUrl": "https://cognito-idp.us-west-2.amazonaws.com/us-west-2_Q1vGep4Kh",
+  "CodeBuildRole": "arn:aws:iam::780660052610:role/CodeBuildExecutionRole",
+  "SageMakerStudioURL": "https://us-west-2.console.aws.amazon.com/sagemaker/home?region=us-west-2#/studio/open/d-rbnow9hcdsan/workshop-user",
+  "CognitoDiscoveryUrl": "https://cognito-idp.us-west-2.amazonaws.com/us-west-2_Q1vGep4Kh/.well-known/openid-configuration",
+  "CognitoDomainName": "agentcore-m2m-domain-780660052610-us-west-2",
+  "CognitoAuthEndpoint": "https://agentcore-m2m-domain-780660052610-us-west-2.auth.us-west-2.amazoncognito.com/oauth2/authorize",
+  "AgentCoreExecutionRole": "arn:aws:iam::780660052610:role/BedrockAgentCoreRole",
+  "CognitoTokenEndpoint": "https://agentcore-m2m-domain-780660052610-us-west-2.auth.us-west-2.amazoncognito.com/oauth2/token",
+  "CognitoClientSecretArn": "arn:aws:secretsmanager:us-west-2:780660052610:secret:M2MClientSecret-workshop-resources-yDbzUT"
+}

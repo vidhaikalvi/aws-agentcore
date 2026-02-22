@@ -1,0 +1,11 @@
+{
+    "MemoryId": "KYCAgentMemory-1BcrQb90N7",
+    "GatewayUrl": "https://addresssearchtools-d0gsfabzag.gateway.bedrock-agentcore.us-west-2.amazonaws.com/mcp",
+    "GatewayName": "AddressSearchTools",
+    "GatewayId": "addresssearchtools-d0gsfabzag",
+    "OpenStreetMapTargetId": "C9IVI8KPSP",
+    "KYC_MCP_Runtime_Url": "https://bedrock-agentcore.us-west-2.amazonaws.com/runtimes/arn%3Aaws%3Abedrock-agentcore%3Aus-west-2%3A780660052610%3Aruntime%2Fkyc_mcp_tooling-2RDuKgH96j/invocations?qualifier=DEFAULT",
+    "KYC_MCP_Runtime_Id": "kyc_mcp_tooling-2RDuKgH96j",
+    "agentRuntimeId": "kyc_agent-yyXvTfClvV",
+    "credentialProviderName": "kyc-mcp-credential-provider"
+}
